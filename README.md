@@ -9,7 +9,6 @@
 Слушайте нас на [SoundCloud](https://soundcloud.com/web-standards), в [iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016), подписывайтесь на [RSS](http://feeds.soundcloud.com/users/soundcloud:users:202737209/sounds.rss) и [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 
 <table>
-  <caption style="caption-side: bottom">≡ — выпуск с расшифровкой.</caption>
   <thead>
     <tr>
       <th colspan="10" style="text-align: center">Выпуски</th>
@@ -78,6 +77,8 @@
     </tr>
   </tbody>
 </table>
+
+≡ — выпуск с расшифровкой.
 
 ---
 Распространяется под лицензией [СС BY-NC-ND 4.0](LICENSE.md).
