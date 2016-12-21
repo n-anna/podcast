@@ -21,7 +21,7 @@
       <td><a href="episodes/episode-03.md">03</a></td>
       <td><a href="episodes/episode-04.md">04</a></td>
       <td><a href="episodes/episode-05.md">05</a> ≡</td>
-      <td><a href="episodes/episode-06.md">06</a></td>
+      <td><a href="episodes/episode-06.md">06</a> ≡</td>
       <td><a href="episodes/episode-07.md">07</a></td>
       <td><a href="episodes/episode-08.md">08</a></td>
       <td><a href="episodes/episode-09.md">09</a></td>
@@ -46,7 +46,7 @@
       <td><a href="episodes/episode-24.md">24</a> ≡</td>
       <td><a href="episodes/episode-25.md">25</a> ≡</td>
       <td><a href="episodes/episode-26.md">26</a></td>
-      <td><a href="episodes/episode-27.md">27</a></td>
+      <td><a href="episodes/episode-27.md">27</a> ≡</td>
       <td><a href="episodes/episode-28.md">28</a></td>
       <td><a href="episodes/episode-29.md">29</a></td>
       <td><a href="episodes/episode-30.md">30</a></td>
@@ -67,10 +67,10 @@
       <td><a href="episodes/episode-41.md">41</a></td>
       <td><a href="episodes/episode-42.md">42</a></td>
       <td><a href="episodes/episode-43.md">43</a></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td><a href="episodes/episode-44.md">44</a></td>
+      <td><a href="episodes/episode-45.md">45</a></td>
+      <td><a href="episodes/episode-46.md">46</a></td>
+      <td><a href="episodes/episode-47.md">47</a></td>
       <td></td>
       <td></td>
       <td></td>
